@@ -1,3 +1,2 @@
 # LeetCode-problem-832.-Flipping-an-Image
-
-Sample Commit
+Link for problem is :- https://leetcode.com/problems/flipping-an-image/
